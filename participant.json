@@ -1,0 +1,34 @@
+{
+    "participants": [
+        {
+            "name": "",
+            "surname": "",
+            "id number": "",
+            "cellphone number": "",
+            "telephone number": "",
+            "address": "",
+            "skills": "",
+            "username": ""
+        },
+        {
+            "name": "James",
+            "surname": "Daniels",
+            "id number": "0312213223435",
+            "cellphone number": "0987654321",
+            "telephone number": "0987654321",
+            "address": "12 ABC Street, DEF, 0293",
+            "skills": "coding, mathematics",
+            "username": ""
+        },
+        {
+            "name": "James",
+            "surname": "Onfroy",
+            "id number": "6812214567234",
+            "cellphone number": "0821234566",
+            "telephone number": "0721234567",
+            "address": "12 Skye Avenue",
+            "skills": "coding, communication",
+            "username": "ONF518922-SKYE1"
+        }
+    ]
+}
